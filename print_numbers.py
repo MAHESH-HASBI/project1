@@ -4,6 +4,7 @@ for i in range(50, 100):
 	#print(i)
 	print("dummy line")
 	#print("adding")
+
+	print("difference")
 	print("dummy line2")
-	#print("difference")
-	print("add")
+
