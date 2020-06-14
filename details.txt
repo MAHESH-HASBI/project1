@@ -1,0 +1,2 @@
+This is the file to add details.
+Some things related to project.
